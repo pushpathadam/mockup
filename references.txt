@@ -1,0 +1,63 @@
+Websites
+  Html & CSS
+    https://html.spec.whatwg.org
+    http://www.w3schools.com/html/default.asp
+    http://www.w3schools.com/css/default.asp
+    https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+  Browser Default Style Guides
+    http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css
+    http://hg.mozilla.org/mozilla-central/file/tip/layout/style/html.css
+    http://www.iecss.com
+
+  Normalize CSS
+    http://necolas.github.io/normalize.css/
+
+  CSS
+    http://css-tricks.com/how-css-selectors-work/
+    http://shrthnd.volume7.io
+
+  Validators
+    http://validator.w3.org/#validate_by_input
+    http://jigsaw.w3.org/css-validator/#validate_by_input
+
+  Concept Deliberation
+    Dom Tree
+
+  Semantic vs Non Semantic
+    http://www.w3schools.com/htmL/html5_semantic_elements.asp
+    http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824
+    http://www.sitepoint.com/10-html-tags-not-using/
+
+  Layout Principles Grid Based Design
+    http://alistapart.com/article/outsidethegrid
+    http://webdesign.tutsplus.com/tutorials/a-simple-mixin-alternative-to-standard-css-grids--webdesign-16958
+    http://designshack.net/articles/layouts/ditching-the-grid-alternate-layout-strategies-and-tips/
+    http://www.sitepoint.com/grid-based-layouts-101/
+    http://getbootstrap.com/css/#grid
+
+  Responsive Design
+  http://alistapart.com/article/responsive-web-design
+
+  Mediaqueries
+    http://stephen.io/mediaqueries/
+    http://www.projectseven.com/products/templates/pagepacks/adaptations/tutorials/media-queries/
+
+  Separation of Concerns Structure from Design/Style
+
+  Code Quality-Style Guide
+    http://udacity.github.io/frontend-nanodegree-styleguide/index.html
+    http://udacity.github.io/frontend-nanodegree-styleguide/css.html
+    http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html
+
+  Udacity Rubric
+  https://www.udacity.com/course/viewer/#!/c-nd001/l-2736698543/m-3289678549
+
+Books
+  HTML&CSS Design & Build Websites by John Duckett, 2011 Edition
+
+Blog Posts
+  NA
+
+Github Repositories
+  NA
